@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MitchelTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitcheltorresp/)](https://www.linkedin.com/in/mitcheltorresp/) [![Gmail Badge](https://img.shields.io/badge/-mitchelmrtp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitchelmrtp@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Mitchel%20Torres-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@Mitchelmrtp)](https://www.youtube.com/@Mitchelmrtp)
 
 
-🎓 **Hola! Soy estudiante de Ingeniería de Sistemas**, actualmente estoy por culminar mi carrera universitaria. Estoy profundizando mis conocimientos en desarrollo **front-end**, **back-end** y temas de **ciberseguridad**. Mi experiencia abarca desde el soporte técnico y mantenimiento de equipos hasta el diseño y desarrollo de soluciones web y bases de datos. Mi objetivo es seguir aprendiendo y contribuir a proyectos innovadores que generen valor. 🚀
+🎓 **Hola! Soy estudiante de Ingeniería de Sistemas**. Actualmente, estoy por culminar mi carrera universitaria y estoy profundizando mis conocimientos en desarrollo **front-end**, **back-end** y temas de **ciberseguridad**. Mi experiencia abarca desde el soporte técnico y mantenimiento de equipos hasta el diseño y desarrollo de soluciones web y bases de datos. Mi objetivo es seguir aprendiendo y contribuir a proyectos innovadores que generen valor. 🚀
 
 - **🌱 Actualmente estoy aprendiendo:**
 	- **React.js**: Framework para aplicaciones escalables de back-end.  
