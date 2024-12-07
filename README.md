@@ -3,6 +3,8 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
+<br> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-MitchelTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitcheltorresp/)](https://www.linkedin.com/in/mitcheltorresp/) [![Gmail Badge](https://img.shields.io/badge/-mitchelmrtp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitchelmrtp@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Mitchel%20Torres-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@Mitchelmrtp)](https://www.youtube.com/@Mitchelmrtp)
 
 
