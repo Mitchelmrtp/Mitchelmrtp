@@ -11,9 +11,9 @@
 🎓 **Hola! Soy estudiante de Ingeniería de Sistemas**. Actualmente, estoy por culminar mi carrera universitaria y estoy profundizando mis conocimientos en desarrollo **front-end**, **back-end** y temas de **ciberseguridad**. Mi experiencia abarca desde el soporte técnico y mantenimiento de equipos hasta el diseño y desarrollo de soluciones web y bases de datos. Mi objetivo es seguir aprendiendo y contribuir a proyectos innovadores que generen valor. 🚀
 
 - **🌱 Actualmente estoy aprendiendo:**
-	- **React.js**: Framework para aplicaciones escalables de back-end.  
-	- **Flutter**: Desarrollo front-end dinámico y eficiente.
-
+	- **React.js**: Desarrollo de interfaces web dinámicas. 
+	- **Flutter**: Aplicaciones móviles multiplataforma.
+ 	- **Node.js + PostgreSQ**: Back-end escalable y eficiente.
 
 - **🤝 Me encantaría colaborar en:**
 
